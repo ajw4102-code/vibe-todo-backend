@@ -18,6 +18,5 @@ coverage/
 
 
 # Node lockfile and editor
-package-lock.json
 .vscode/
 
